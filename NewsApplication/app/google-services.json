@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567030166620",
+    "firebase_url": "https://news-cc901.firebaseio.com",
+    "project_id": "news-cc901",
+    "storage_bucket": "news-cc901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567030166620:android:74deaf9cd1411a97e96299",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.NewsApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567030166620-rb2ejtffub9bdbid3ohsi3km8pi8r5qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.kku.cis.mobileapp.NewsApplication",
+            "certificate_hash": "e68db180a0700c09b67877c65299645071fe4bec"
+          }
+        },
+        {
+          "client_id": "567030166620-lmk5omr0o03fiu4nu06e6198j8j5ph2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJdlcAMJeWY8XS42YYqkM_XK8bKTr0Yik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567030166620-lmk5omr0o03fiu4nu06e6198j8j5ph2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
